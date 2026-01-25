@@ -1,6 +1,6 @@
 <!-- Animated typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ritesh;Full+Stack+Developer+in+Progress;C%2B%2B+Problem+Solver;Future+Web3+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ritesh;Full+Stack+Developer+in+Progress;Problem+Solver;Future+Web3+Explorer" alt="Typing SVG" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,git,github,vscode&theme=dark" />
 </p>
 
 ---
