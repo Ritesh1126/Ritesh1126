@@ -22,11 +22,16 @@
 
 ---
 
-## 🛠️ Tech Stack
+  ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jupyter notebook,python,cpp,html,css,js,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode&theme=dark" />
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
 
 ---
 
@@ -38,13 +43,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats &🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritesh1126&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh1126&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritesh1126&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh1126&theme=tokyo-night&hide_border=true"/>
+</p>
 ---
 
 ## 📈 Most Used Languages
