@@ -1,16 +1,78 @@
-## Hi there 👋
+<!-- Animated typing intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ritesh;Full+Stack+Developer+in+Progress;C%2B%2B+Problem+Solver;Future+Web3+Explorer" alt="Typing SVG" />
+</p>
 
-<!--
-**Ritesh1126/Ritesh1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **B.Tech in Computer Science (AI Specialization)**  
+💻 **Full Stack Developer** (Learning & Building)  
+🧠 Strong focus on **Problem Solving using C++**  
+🌐 Exploring **Web Development** & planning to dive into **Web3**
+
+---
+
+## 🚀 Currently Working On
+- 🔹 Learning **Full Stack Web Development**
+- 🔹 Solving **DSA & Competitive Programming** in C++
+- 🔹 Building projects using **HTML, CSS & JavaScript**
+- 🔹 Preparing for **Web3 & Blockchain** in future
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## 🔗 Coding & Social Profiles
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-username  
+- 🧠 **Codeforces:** https://codeforces.com/profile/your-codeforces-username  
+- 🧩 **LeetCode:** https://leetcode.com/your-leetcode-username  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritesh1126&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh1126&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh1126&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧩 Competitive Programming Focus
+
+- 🏆 Improving **C++ DSA skills**
+- 🧠 Practicing daily on **Codeforces & LeetCode**
+- 🎯 Goal: Crack **internships & placements**
+
+---
+
+## 🌱 Future Goals
+- 🚀 Become a **Skilled Full Stack Developer**
+- 🧠 Master **DSA & System Thinking**
+- 🔗 Learn **Web3 & Blockchain**
+- 🛠️ Build **real-world impactful projects**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=120&section=footer"/>
+</p>
+
+⭐ *If you like my work, consider starring my repositories!*
