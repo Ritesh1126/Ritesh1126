@@ -36,10 +36,10 @@
 ---
 
 ## 🔗 Coding & Social Profiles
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-username  
-- 🧠 **Codeforces:** https://codeforces.com/profile/your-codeforces-username  
-- 🧩 **LeetCode:** https://leetcode.com/your-leetcode-username  
+-  X **X**: https://x.com/r_sontakke__07
+- 💼 **LinkedIn:** www.linkedin.com/in/ritesh-sontakke-s07
+- 🧠 **Codeforces:** https://codeforces.com/profile/Ritesh_Sontakke___07  
+- 🧩 **LeetCode:** https://leetcode.com/u/Ritesh_Sontakke_07/ 
 
 ---
 
