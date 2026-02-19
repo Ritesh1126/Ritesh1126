@@ -1,7 +1,6 @@
 <!-- Animated typing intro -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Ritesh+Sontakke;Full+Stack+Developer+in+Progress;Competitive+Programmer;Future+Web3+Explorer" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ritesh;Full+Stack+Developer+in+Progress;Problem+Solver;Future+Web3+Explorer" alt="Typing SVG" />
 </p>
 
@@ -56,13 +55,6 @@
 </p>
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh1126&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🧩 Competitive Programming Focus
 
