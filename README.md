@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech in Computer Science (AI Specialization)**  
+🎓 **B.Tech in Computer Science (AI & Data Science Specialization)**  
 💻 **Full Stack Developer** (Learning & Building)  
 🧠 Strong focus on **Problem Solving using C++**  
 🌐 Exploring **Web Development** & planning to dive into **Blockchain 
