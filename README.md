@@ -57,7 +57,7 @@
 ---
 
 
-## 🧩 Competitive Programming Focus
+## 🧩 Competitive Programming Focus & to be perfect in coding life
 
 - 🏆 Improving **C++ DSA skills**
 - 🧠 Practicing daily on **Codeforces & LeetCode**
