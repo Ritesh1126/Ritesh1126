@@ -69,6 +69,7 @@
 - 🧠 Master **DSA & System Thinking**
 - 🔗 Learn **Web3 & Blockchain**
 - 🛠️ Build **real-world impactful projects**
+- **Build - Run - Debug**
 
 ---
 
