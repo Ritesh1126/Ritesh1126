@@ -99,7 +99,28 @@
 ---
 
 ## 📊 GitHub Live Stats Dashboard
+---
 
+<div align="center">
+  <h2>⚡ Real-time Activity Tracker</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritesh1126&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh1126&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <h3>🔥 Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh1126&theme=tokyo-night&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh1126&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
