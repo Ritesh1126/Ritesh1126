@@ -114,12 +114,11 @@
 </div>
 
 <div align="center">
-  <h3>🔥 Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh1126&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh1126&theme=react-dark&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh1126&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Ritesh1126&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
