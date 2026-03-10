@@ -291,8 +291,3 @@
     ⚡ Using <strong>GitHub API + Vercel</strong> for live data
   </p>
 </div>
-
-<!-- Visit counter (Optional) -->
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ritesh1126&label=Profile%20Views&color=38bdf8&icon=6&pretty=true" alt="Visit Count"/>
-</div>
