@@ -80,6 +80,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-Ritesh__Sontakke___07-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0f172a)](https://codeforces.com/profile/Ritesh_Sontakke___07)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Ritesh__Sontakke__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f172a)](https://leetcode.com/u/Ritesh_Sontakke_07/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ritesh1126-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/Ritesh1126)
+[![Reddit](https://img.shields.io/badge/Reddit-u%2FSpare__Comfortable679-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0f172a)](https://www.reddit.com/user/Spare_Comfortable679/)
 
 </div>
 
@@ -386,9 +387,10 @@ jobs:
 
 <p>
   <strong>📬 Reach out:</strong> 
-  <a href="https://www.linkedin.com/in/ritesh-sontakke-s07">LinkedIn</a> · 
   <a href="https://x.com/r_sontakke__07">X (Twitter)</a> · 
-  <a href="https://github.com/Ritesh1126">GitHub</a>
+  <a href="https://www.linkedin.com/in/ritesh-sontakke-s07">LinkedIn</a> · 
+  <a href="https://github.com/Ritesh1126">GitHub</a> · 
+  <a href="https://www.reddit.com/user/Spare_Comfortable679/">Reddit</a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer&text=Keep+Coding+%F0%9F%92%BB+%E2%80%94+Ritesh+Sontakke&fontSize=28&fontColor=38BDF8&animation=fadeIn"/>
