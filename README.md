@@ -69,18 +69,48 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Coming%20Soon-38BDF8?style=for-the-badge&labelColor=0f172a)](https://github.com/Ritesh1126)
-[![Resume](https://img.shields.io/badge/📄%20Resume-Download-6366F1?style=for-the-badge&labelColor=0f172a)](https://github.com/Ritesh1126)
-[![Email](https://img.shields.io/badge/📧%20Email-Contact%20Me-EC4899?style=for-the-badge&labelColor=0f172a)](mailto:riteshsontakke07@gmail.com)
+<!-- Row 1: Social Media -->
+<a href="https://www.linkedin.com/in/ritesh-sontakke-s07" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://x.com/r_sontakke__07" target="_blank">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter"/>
+</a>
+&nbsp;
+<a href="https://www.reddit.com/user/Spare_Comfortable679/" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+</a>
+&nbsp;
+<a href="mailto:riteshsontakke07@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
-<br/>
+<br/><br/>
 
-[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-@r__sontakke__07-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0f172a)](https://x.com/r_sontakke__07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritesh%20Sontakke-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://www.linkedin.com/in/ritesh-sontakke-s07)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Ritesh__Sontakke___07-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0f172a)](https://codeforces.com/profile/Ritesh_Sontakke___07)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Ritesh__Sontakke__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f172a)](https://leetcode.com/u/Ritesh_Sontakke_07/)
-[![GitHub](https://img.shields.io/badge/GitHub-Ritesh1126-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/Ritesh1126)
-[![Reddit](https://img.shields.io/badge/Reddit-u%2FSpare__Comfortable679-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0f172a)](https://www.reddit.com/user/Spare_Comfortable679/)
+<!-- Row 2: Coding Platforms -->
+<a href="https://github.com/Ritesh1126" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Ritesh_Sontakke_07/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+&nbsp;
+<a href="https://codeforces.com/profile/Ritesh_Sontakke___07" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+
+<br/><br/>
+
+<!-- Row 3: Portfolio & Resume -->
+<a href="https://github.com/Ritesh1126" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://github.com/Ritesh1126" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download-6366F1?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+</a>
 
 </div>
 
@@ -387,8 +417,8 @@ jobs:
 
 <p>
   <strong>📬 Reach out:</strong> 
-  <a href="https://x.com/r_sontakke__07">X (Twitter)</a> · 
   <a href="https://www.linkedin.com/in/ritesh-sontakke-s07">LinkedIn</a> · 
+  <a href="https://x.com/r_sontakke__07">X (Twitter)</a> · 
   <a href="https://github.com/Ritesh1126">GitHub</a> · 
   <a href="https://www.reddit.com/user/Spare_Comfortable679/">Reddit</a>
 </p>
