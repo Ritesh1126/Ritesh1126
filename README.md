@@ -1,226 +1,267 @@
-⁷ <!-- ... Animated Header with Gradient Background.. -->
+<!-- SEO META OPTIMIZATION - Ritesh Sontakke | Full Stack Developer | Web3 | Blockchain | AI & Data Science -->
+<!-- Keywords: Ritesh Sontakke, Ritesh Sontakke Developer, Ritesh Sontakke GitHub, Ritesh Sontakke Codeforces, Ritesh Sontakke LeetCode, Ritesh Sontakke Web3, Ritesh1126 -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ritesh;Full+Stack+Developer+in+Progress;Problem+Solver;Future+BlockchainDeveloper/Web3+Explorer" alt="Typing SVG" />
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER                       -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=Ritesh%20Sontakke&fontSize=60&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web3%20Explorer%20%7C%20DSA%20Enthusiast&descAlignY=60&descSize=18&descColor=A5B4FC"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ritesh+Sontakke;Full+Stack+Developer+%7C+Pune%2C+India;DSA+%26+Competitive+Programmer+%F0%9F%8F%86;Future+Web3+%2F+Blockchain+Developer+%F0%9F%94%97;B.Tech+CS+(AI+%26+Data+Science)+%F0%9F%8E%93;Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Repeat+%F0%9F%94%81" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- Profile Views + Followers + Stars -->
+<img src="https://komarev.com/ghpvc/?username=Ritesh1126&label=Profile+Views&color=38BDF8&style=for-the-badge" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Ritesh1126?label=Followers&style=for-the-badge&color=6366F1&labelColor=0f172a" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To-Opportunities-38BDF8?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0f172a" alt="Open To Work"/>
+
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=100&section=header&text=Welcome%20to%20My%20GitHub&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-</p>
+---
 
------
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                     ABOUT ME                             -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me — Ritesh Sontakke
+
+> 🌍 **Pune, Maharashtra, India** | 🎓 B.Tech CS (AI & Data Science) | 💼 Seeking Internships & Collaborations
 
 <div align="center">
   <table>
     <tr>
-      <td>
-        🎓 <strong>B.Tech in Computer Science</strong><br/>
-        <em>AI & Data Science Specialization</em>
-      </td>
-      <td>
-        💻 <strong>Full Stack Developer</strong><br/>
-        <em>Learning & Building</em>
-      </td>
+      <td align="center">🎓</td>
+      <td><strong>B.Tech in Computer Science</strong> — AI & Data Science Specialization</td>
     </tr>
     <tr>
-      <td>
-        🧠 <strong>DSA & CP Expert</strong><br/>
-        <em>C++ Problem Solver</em>
-      </td>
-      <td>
-        🌐 <strong>Web3 Explorer</strong><br/>
-        <em>Blockchain Enthusiast</em>
-      </td>
+      <td align="center">💻</td>
+      <td><strong>Full Stack Developer</strong> — Building real-world apps with MERN Stack</td>
+    </tr>
+    <tr>
+      <td align="center">🧠</td>
+      <td><strong>DSA & Competitive Programmer</strong> — C++, Codeforces, LeetCode Daily</td>
+    </tr>
+    <tr>
+      <td align="center">🔗</td>
+      <td><strong>Web3 Explorer</strong> — Blockchain, Solidity & dApps (Coming Soon)</td>
+    </tr>
+    <tr>
+      <td align="center">📍</td>
+      <td><strong>Location:</strong> Pune, India | <strong>Open to:</strong> Remote & On-site roles</td>
     </tr>
   </table>
 </div>
 
 ---
 
-## 🚀 Currently Working On
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   QUICK LINKS BANNER                     -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px;">
-      <img src="https://img.shields.io/badge/Full%20Stack-Development-%2338BDF8?style=for-the-badge&logoColor=white&labelColor=0f172a" alt="Full Stack"/>
-    </td>
-    <td style="border: none; padding: 10px;">
-      <img src="https://img.shields.io/badge/DSA%20%26%20CP-C%2B%2B-%2338BDF8?style=for-the-badge&logoColor=white&labelColor=0f172a" alt="DSA"/>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px;">
-      <img src="https://img.shields.io/badge/Web%20Technologies-HTML%2FCSS%2FJS-%2338BDF8?style=for-the-badge&logoColor=white&labelColor=0f172a" alt="Web Dev"/>
-    </td>
-    <td style="border: none; padding: 10px;">
-      <img src="https://img.shields.io/badge/Web3-Blockchain-%2338BDF8?style=for-the-badge&logoColor=white&labelColor=0f172a" alt="Web3"/>
-    </td>
-  </tr>
-</table>
+## 🔗 Find Me Online — Ritesh Sontakke
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Coming%20Soon-38BDF8?style=for-the-badge&labelColor=0f172a)](https://github.com/Ritesh1126)
+[![Resume](https://img.shields.io/badge/📄%20Resume-Download-6366F1?style=for-the-badge&labelColor=0f172a)](https://github.com/Ritesh1126)
+[![Email](https://img.shields.io/badge/📧%20Email-Contact%20Me-EC4899?style=for-the-badge&labelColor=0f172a)](mailto:riteshsontakke07@gmail.com)
+
+<br/>
+
+[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-@r__sontakke__07-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0f172a)](https://x.com/r_sontakke__07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritesh%20Sontakke-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://www.linkedin.com/in/ritesh-sontakke-s07)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Ritesh__Sontakke___07-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0f172a)](https://codeforces.com/profile/Ritesh_Sontakke___07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Ritesh__Sontakke__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f172a)](https://leetcode.com/u/Ritesh_Sontakke_07/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ritesh1126-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/Ritesh1126)
+
+</div>
+
 ---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                     TECH STACK                           -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <h3>💻 Languages & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode&theme=dark" />
-</div>
 
-<div align="center">
-  <h3>📚 Learning</h3>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,docker&theme=dark" />
-</div>
+### 💻 Core Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css&theme=dark" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</div>
+### ⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" />
 
----
+### 📚 Currently Learning
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,docker&theme=dark" />
 
-## 🔗 Let's Connect
+### 🔜 Next Up (Web3 / AI)
+<img src="https://skillicons.dev/icons?i=solidity,tensorflow,firebase&theme=dark" />
 
-<div align="center">
-  <a href="https://x.com/r_sontakke__07" target="_blank">
-    <img src="https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ritesh-sontakke-s07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://codeforces.com/profile/Ritesh_Sontakke___07" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://leetcode.com/u/Ritesh_Sontakke_07/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
+<br/>
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-UI%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
 </div>
 
 ---
 
-## 📊 GitHub Live Stats Dashboard
----
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--               GITHUB LIVE STATS DASHBOARD                -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Stats — Ritesh Sontakke (Ritesh1126)
 
 <div align="center">
-  <h2>⚡ Real-time Activity Tracker</h2>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ritesh1126&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=38BDF8&icon_color=6366F1&text_color=ffffff&bg_color=0d1117"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh1126&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=ffffff&bg_color=0d1117"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritesh1126&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img src="https://streak-stats.demolab.com?user=Ritesh1126&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=6366F1&fire=EC4899&currStreakLabel=38BDF8&background=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh1126&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh1126&theme=react-dark&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ritesh1126&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-## 📈 Weekly Stats Summary
-
-<table align="center">
-  <tr>
-    <th>📅 Metric</th>
-    <th>📊 This Week</th>
-    <th>📈 This Month</th>
-    <th>🎯 All Time</th>
-  </tr>
-  <tr>
-    <td>💻 Commits</td>
-    <td><code>12-15</code></td>
-    <td><code>50-60</code></td>
-    <td><code>500+</code></td>
-  </tr>
-  <tr>
-    <td>🔀 Pull Requests</td>
-    <td><code>2-3</code></td>
-    <td><code>8-10</code></td>
-    <td><code>50+</code></td>
-  </tr>
-  <tr>
-    <td>⭐ Repositories</td>
-    <td colspan="3" align="center"><code>45+ Projects</code></td>
-  </tr>
-  <tr>
-    <td>👥 Followers</td>
-    <td colspan="3" align="center"><code>Growing 📈</code></td>
-  </tr>
-</table>
-
----
-
-## 🧩 Competitive Programming Focus
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Codeforces-Rating-informational?style=for-the-badge&logoColor=white&labelColor=1F8ACB"/>
-        <br/>
-        <img src="https://codeforces.com/api/user.info?handles=Ritesh_Sontakke___07&json" alt="CF Stats" width="200"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/LeetCode-Problems-success?style=for-the-badge&logoColor=white&labelColor=FFA116"/>
-        <br/>
-        Daily Grinding 🔥
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <h3>🏆 CP Goals</h3>
-  <img src="https://img.shields.io/badge/C%2B%2B%20DSA-Master-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Competitive%20Programming-Active-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-Daily-orange?style=for-the-badge"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh1126&theme=react-dark&hide_border=true&bg_color=0d1117&color=38BDF8&line=6366F1&point=EC4899"/>
 </div>
 
 ---
 
-## 🌱 Future Goals & Learning Path
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--              🆕 GITHUB TROPHIES (NEW FEATURE)            -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ritesh1126&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Ritesh Sontakke GitHub Trophies"/>
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--        🆕 SNAKE CONTRIBUTION ANIMATION (NEW FEATURE)     -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ritesh1126/Ritesh1126/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ritesh1126/Ritesh1126/output/github-snake.svg" />
+    <img alt="Ritesh Sontakke Github contribution grid snake animation" src="https://raw.githubusercontent.com/Ritesh1126/Ritesh1126/output/github-snake.svg" />
+  </picture>
+</div>
+
+> 💡 **Setup:** Add a GitHub Action workflow `.github/workflows/snake.yml` to auto-generate the snake animation daily. See setup guide below ↓
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--             🆕 COMPETITIVE PROGRAMMING (NEW)             -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🧩 Competitive Programming — Ritesh Sontakke
+
+<div align="center">
+
+| Platform | Handle | Status |
+|----------|--------|--------|
+| 🟦 **Codeforces** | [Ritesh_Sontakke___07](https://codeforces.com/profile/Ritesh_Sontakke___07) | Active 🔥 |
+| 🟨 **LeetCode** | [Ritesh_Sontakke_07](https://leetcode.com/u/Ritesh_Sontakke_07/) | Daily Grind 💪 |
+| ⚫ **GitHub** | [Ritesh1126](https://github.com/Ritesh1126) | 45+ Repos 🚀 |
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B%20DSA-Expert%20Level-brightgreen?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/LeetCode-Daily%20Streak-FFA116?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/Codeforces-Active%20Contestant-1F8ACB?style=for-the-badge&logo=codeforces"/>
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--             🆕 CURRENTLY WORKING ON (NEW DESIGN)         -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🚀 Currently Working On
+
+```text
+🔨 Full Stack MERN App      ████████████░░░░░░░░   60%
+⚔️  DSA & Codeforces CP     ████████████████░░░░   80%
+⚛️  Learning React.js       ████████░░░░░░░░░░░░   40%
+🔗  Web3 / Blockchain       ████░░░░░░░░░░░░░░░░   20%
+🐳  Docker & DevOps         ██░░░░░░░░░░░░░░░░░░   10%
+```
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--          🆕 FEATURED PROJECTS SECTION (NEW FEATURE)      -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ritesh1126&repo=Ritesh1126&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=6366F1&bg_color=0d1117)](https://github.com/Ritesh1126)
+
+> 🔧 **Add your best project repo names here** — Replace `Ritesh1126` in the URL above with your actual repo name!
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   LEARNING ROADMAP                       -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🌱 Learning Roadmap
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <h3>🚀 Phase 1: Web Development</h3>
-        <ul>
-          <li>✅ HTML/CSS/JavaScript</li>
-          <li>⏳ React.js</li>
-          <li>⏳ Node.js & Express</li>
-        </ul>
+        <h3>🚀 Phase 1: Web Dev</h3>
+        ✅ HTML / CSS / JavaScript<br/>
+        🔄 React.js <em>(in progress)</em><br/>
+        ⏳ Node.js & Express<br/>
+        ⏳ MongoDB & REST APIs
       </td>
       <td>
-        <h3>🔗 Phase 2: Web3 & Blockchain</h3>
-        <ul>
-          <li>⏳ Smart Contracts</li>
-          <li>⏳ Solidity</li>
-          <li>⏳ dApps Development</li>
-        </ul>
+        <h3>🔗 Phase 2: Web3</h3>
+        ⏳ Solidity & Smart Contracts<br/>
+        ⏳ Hardhat / Foundry<br/>
+        ⏳ dApps Development<br/>
+        ⏳ DeFi Protocols
       </td>
     </tr>
     <tr>
       <td>
         <h3>🧠 Phase 3: System Design</h3>
-        <ul>
-          <li>⏳ System Thinking</li>
-          <li>⏳ Scalability</li>
-          <li>⏳ Database Design</li>
-        </ul>
+        ⏳ Low-Level Design (LLD)<br/>
+        ⏳ High-Level Design (HLD)<br/>
+        ⏳ Database Design<br/>
+        ⏳ Microservices
       </td>
       <td>
-        <h3>🎯 Phase 4: Real-World Impact</h3>
-        <ul>
-          <li>⏳ Build Impactful Projects</li>
-          <li>⏳ Open Source Contribution</li>
-          <li>⏳ Mentorship</li>
-        </ul>
+        <h3>🎯 Phase 4: Impact</h3>
+        ⏳ Build Impactful Products<br/>
+        ⏳ Open Source Contributions<br/>
+        ⏳ Technical Blogging<br/>
+        ⏳ Mentoring Others
       </td>
     </tr>
   </table>
@@ -228,66 +269,148 @@
 
 ---
 
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--         🆕 WEEKLY STATS TRACKER (ENHANCED)               -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 📈 Stats Summary
+
+<div align="center">
+
+| 📅 Metric | 📊 This Week | 📈 This Month | 🎯 All Time |
+|-----------|-------------|--------------|------------|
+| 💻 Commits | `12–15` | `50–60` | `500+` |
+| 🔀 Pull Requests | `2–3` | `8–10` | `50+` |
+| ⭐ Repositories | — | — | `45+ Projects` |
+| 🧩 CP Problems | `10+` | `40+` | `300+` |
+| 👥 GitHub Followers | — | — | `Growing 📈` |
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--              🆕 SKILL BADGES SECTION (NEW)               -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🏅 Skill Badges
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-Expert-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-Learning-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Learning-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Proficient-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Comfortable-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-Exploring-363636?style=flat-square&logo=solidity&logoColor=white)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   PHILOSOPHY                             -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
 ## 💡 My Philosophy
 
 <div align="center">
-  <blockquote>
-    <h3>
-      <strong>Build → Run → Debug → Learn → Repeat</strong>
-    </h3>
-    <p>
-      Every line of code teaches something new. Every bug is a lesson in disguise.
-      <br/>
-      <em>Consistency beats perfection. Progress over perfection.</em>
-    </p>
-  </blockquote>
+
+> ### **Build → Run → Debug → Learn → Repeat** 🔁
+>
+> Every line of code teaches something new. Every bug is a lesson in disguise.
+> *Consistency beats perfection. Progress over perfection.*
+>
+> — **Ritesh Sontakke**
+
 </div>
 
 ---
 
-## 📚 Recent Learning & Projects
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--        🆕 SNAKE WORKFLOW SETUP GUIDE (NEW FEATURE)       -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20React-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Building%20Projects-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Active%20in%20CP-orange?style=for-the-badge"/>
-</div>
+## ⚙️ Snake Animation Setup (One-Time)
+
+<details>
+<summary>📋 Click to expand setup instructions</summary>
+
+1. Create file: `.github/workflows/snake.yml` in your profile repo (`Ritesh1126/Ritesh1126`)
+2. Paste this content:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Run the workflow manually once → snake animation will appear! 🐍
+
+</details>
 
 ---
 
-## 📞 Quick Stats
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   FOOTER                                 -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20Repos-45%2B-blue?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/Public%20Projects-30%2B-brightgreen?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/Languages-12%2B-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Learning-Constantly-red?style=flat-square"/>
+
+<h2>✨ Let's Build Something Amazing Together! ✨</h2>
+
+<p>
+  <strong>📬 Reach out:</strong> 
+  <a href="https://www.linkedin.com/in/ritesh-sontakke-s07">LinkedIn</a> · 
+  <a href="https://x.com/r_sontakke__07">X (Twitter)</a> · 
+  <a href="https://github.com/Ritesh1126">GitHub</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer&text=Keep+Coding+%F0%9F%92%BB+%E2%80%94+Ritesh+Sontakke&fontSize=28&fontColor=38BDF8&animation=fadeIn"/>
+
+<p>
+  <strong>⭐ If you like my work, consider starring my repositories! ⭐</strong><br/>
+  <em>📊 Stats auto-update every 24 hours via GitHub API + Vercel</em><br/>
+  <em>🔍 <strong>Ritesh Sontakke</strong> | Ritesh1126 | Full Stack Developer | Pune, India</em>
+</p>
+
 </div>
 
----
-
-<div align="center">
-  <h2>✨ Let's Build Something Amazing Together! ✨</h2>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=100&section=footer&text=Keep%20Coding%20%F0%9F%92%BB&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</div>
-
-<div align="center">
-  <p>
-    <strong>⭐ If you like my work, consider starring my repositories! ⭐</strong>
-    <br/>
-    <em>Last Updated: Daily (Auto-refresh via GitHub API)</em>
-  </p>
-</div>
-
----
-
-## 🔄 Auto-Update System
-
-<div align="center">
-  <p>
-    📊 Stats update <strong>automatically every 24 hours</strong><br/>
-    🔄 Activity graph refreshes in <strong>real-time</strong><br/>
-    ⚡ Using <strong>GitHub API + Vercel</strong> for live data
-  </p>
-</div>
+<!-- 
+  ╔══════════════════════════════════════════════════════════╗
+  ║  SEO KEYWORDS (Hidden from rendered view, indexed by    ║
+  ║  GitHub search and Google crawlers via raw HTML)         ║
+  ║                                                          ║
+  ║  Ritesh Sontakke, Ritesh Sontakke Developer,            ║
+  ║  Ritesh Sontakke GitHub, Ritesh Sontakke Full Stack,    ║
+  ║  Ritesh Sontakke Web3, Ritesh Sontakke Blockchain,      ║
+  ║  Ritesh Sontakke LeetCode, Ritesh Sontakke Codeforces,  ║
+  ║  Ritesh Sontakke Pune, Ritesh1126, r_sontakke__07,       ║
+  ║  ritesh-sontakke-s07, Ritesh Sontakke AI Data Science   ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
