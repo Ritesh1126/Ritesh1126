@@ -243,16 +243,6 @@
 <!--          🆕 FEATURED PROJECTS SECTION (NEW FEATURE)      -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-## 📌 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ritesh1126&repo=Ritesh1126&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=6366F1&bg_color=0d1117)](https://github.com/Ritesh1126)
-
-> 🔧 **Add your best project repo names here** — Replace `Ritesh1126` in the URL above with your actual repo name!
-
-</div>
-
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
