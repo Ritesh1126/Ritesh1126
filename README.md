@@ -168,33 +168,6 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--              🆕 GITHUB TROPHIES (NEW FEATURE)            -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ritesh1126&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Ritesh Sontakke GitHub Trophies"/>
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--        🆕 SNAKE CONTRIBUTION ANIMATION (NEW FEATURE)     -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ritesh1126/Ritesh1126/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ritesh1126/Ritesh1126/output/github-snake.svg" />
-    <img alt="Ritesh Sontakke Github contribution grid snake animation" src="https://raw.githubusercontent.com/Ritesh1126/Ritesh1126/output/github-snake.svg" />
-  </picture>
-</div>
-
-> 💡 **Setup:** Add a GitHub Action workflow `.github/workflows/snake.yml` to auto-generate the snake animation daily. See setup guide below ↓
 
 ---
 
