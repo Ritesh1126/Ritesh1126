@@ -350,51 +350,7 @@
 
 </div>
 
----
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--        🆕 SNAKE WORKFLOW SETUP GUIDE (NEW FEATURE)       -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## ⚙️ Snake Animation Setup (One-Time)
-
-<details>
-<summary>📋 Click to expand setup instructions</summary>
-
-1. Create file: `.github/workflows/snake.yml` in your profile repo (`Ritesh1126/Ritesh1126`)
-2. Paste this content:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Run the workflow manually once → snake animation will appear! 🐍
-
-</details>
-
----
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                   FOOTER                                 -->
