@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER                       -->
+<!--                    ANIMATED HEADER                       --> 
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=Ritesh%20Sontakke&fontSize=60&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web3%20Explorer%20%7C%20DSA%20Enthusiast&descAlignY=60&descSize=18&descColor=A5B4FC"/>
