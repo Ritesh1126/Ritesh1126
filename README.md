@@ -30,7 +30,29 @@
 <!--                     ABOUT ME                             -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-## 👨‍💻 About Me — Ritesh Sontakke
+## 👨‍💻 About Me — Hi, I'm Ritesh Sontakke - Engineer, specialising in AI & Data Science 
+
+I have In-depth knowledge of Mathematics, C++ & DSA with proper Implementation.
+
+Some other core subjects in which I have sound knowledge include:- 
+
+  --> DS & Algo
+
+  --> Operating System 
+
+  --> Computer Networking 
+
+  --> Foundation of Data Science 
+
+  --> AI 
+
+  --> statistics 
+
+  --> DBMS 
+  --> And in the future, I'm starting a Web3 & blockchain journey
+
+
+
 
 > 🌍 **Nagpur, Maharashtra, India** | 🎓 B.Tech CS (AI & Data Science) 
 
