@@ -49,12 +49,8 @@
       <td><strong>DSA & Competitive Programmer</strong> — C++, Codeforces, LeetCode Daily</td>
     </tr>
     <tr>
-      <td align="center">🔗</td>
-      <td><strong>Web3 Explorer</strong> — Blockchain, Solidity & dApps (Coming Soon)</td>
-    </tr>
-    <tr>
       <td align="center">📍</td>
-      <td><strong>Location:</strong> Pune, India | <strong>Open to:</strong> Remote & On-site roles</td>
+      <td><strong>Location:</strong> Nagpur, India | <strong>Open to:</strong> Remote & On-site roles</td>
     </tr>
   </table>
 </div>
