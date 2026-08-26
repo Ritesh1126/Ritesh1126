@@ -165,26 +165,6 @@ Some other core subjects in which I have sound knowledge include:-
 <!--               GITHUB LIVE STATS DASHBOARD                -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats — Ritesh Sontakke (Ritesh1126)
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ritesh1126&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=38BDF8&icon_color=6366F1&text_color=ffffff&bg_color=0d1117"/>
-
-&nbsp;
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh1126&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=ffffff&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ritesh1126&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=6366F1&fire=EC4899&currStreakLabel=38BDF8&background=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh1126&theme=react-dark&hide_border=true&bg_color=0d1117&color=38BDF8&line=6366F1&point=EC4899"/>
-</div>
-
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
@@ -227,50 +207,6 @@ Some other core subjects in which I have sound knowledge include:-
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   LEARNING ROADMAP                       -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🌱 Learning Roadmap
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>🚀 Phase 1: Web Dev</h3>
-        ✅ HTML / CSS / JavaScript<br/>
-        🔄 React.js <em>(in progress)</em><br/>
-        ⏳ Node.js & Express<br/>
-        ⏳ MongoDB & REST APIs
-      </td>
-      <td>
-        <h3>🔗 Phase 2: Web3</h3>
-        ⏳ Solidity & Smart Contracts<br/>
-        ⏳ Hardhat / Foundry<br/>
-        ⏳ dApps Development<br/>
-        ⏳ DeFi Protocols
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>🧠 Phase 3: System Design</h3>
-        ⏳ Low-Level Design (LLD)<br/>
-        ⏳ High-Level Design (HLD)<br/>
-        ⏳ Database Design<br/>
-        ⏳ Microservices
-      </td>
-      <td>
-        <h3>🎯 Phase 4: Impact</h3>
-        ⏳ Build Impactful Products<br/>
-        ⏳ Open Source Contributions<br/>
-        ⏳ Technical Blogging<br/>
-        ⏳ Mentoring Others
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--         WEEKLY STATS TRACKER                             -->
