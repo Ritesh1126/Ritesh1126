@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ritesh+Sontakke;Full+Stack+Developer+%7C+Pune%2C+India;DSA+%26+Competitive+Programmer+%F0%9F%8F%86;Future+Web3+%2F+Blockchain+Developer+%F0%9F%94%97;B.Tech+CS+(AI+%26+Data+Science)+%F0%9F%8E%93;Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Repeat+%F0%9F%94%81" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ritesh+Sontakke;Full+Stack+Developer+%7C+Nagpur%2C+India;DSA+%26+Competitive+Programmer+%F0%9F%8F%86;Future+Web3+%2F+Blockchain+Developer+%F0%9F%94%97;B.Tech+CS+(AI+%26+Data+Science)+%F0%9F%8E%93;Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Repeat+%F0%9F%94%81" alt="Typing SVG" />
 
 <br/><br/>
 
