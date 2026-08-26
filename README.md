@@ -120,6 +120,7 @@ Some other core subjects in which I have sound knowledge include:-
 <br/><br/>
 
 <!-- Row 3: Portfolio & Resume -->
+<!-- TODO: replace with your real portfolio/resume URLs -->
 <a href="https://github.com/Ritesh1126" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
@@ -186,11 +187,8 @@ Some other core subjects in which I have sound knowledge include:-
 
 ---
 
-
----
-
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--             🆕 COMPETITIVE PROGRAMMING (NEW)             -->
+<!--             COMPETITIVE PROGRAMMING                      -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🧩 Competitive Programming — Ritesh Sontakke
@@ -214,7 +212,7 @@ Some other core subjects in which I have sound knowledge include:-
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--             🆕 CURRENTLY WORKING ON (NEW DESIGN)         -->
+<!--             CURRENTLY WORKING ON                         -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🚀 Currently Working On
@@ -226,12 +224,6 @@ Some other core subjects in which I have sound knowledge include:-
 🔗  Web3 / Blockchain       ████░░░░░░░░░░░░░░░░   20%
 🐳  Docker & DevOps         ██░░░░░░░░░░░░░░░░░░   10%
 ```
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--          🆕 FEATURED PROJECTS SECTION (NEW FEATURE)      -->
-<!-- ══════════════════════════════════════════════════════════ -->
 
 ---
 
@@ -281,7 +273,7 @@ Some other core subjects in which I have sound knowledge include:-
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--         🆕 WEEKLY STATS TRACKER (ENHANCED)               -->
+<!--         WEEKLY STATS TRACKER                             -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 ## 📈 Stats Summary
@@ -301,7 +293,7 @@ Some other core subjects in which I have sound knowledge include:-
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--              🆕 SKILL BADGES SECTION (NEW)               -->
+<!--              SKILL BADGES SECTION                        -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🏅 Skill Badges
@@ -340,8 +332,6 @@ Some other core subjects in which I have sound knowledge include:-
 > — **Ritesh Sontakke**
 
 </div>
-
-
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                   FOOTER                                 -->
