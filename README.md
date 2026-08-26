@@ -49,12 +49,10 @@ Some other core subjects in which I have sound knowledge include:-
   --> statistics 
 
   --> DBMS 
+  
   --> And in the future, I'm starting a Web3 & blockchain journey
 
 
-
-
-> 🌍 **Nagpur, Maharashtra, India** | 🎓 B.Tech CS (AI & Data Science) 
 
 <div align="center">
   <table>
