@@ -166,11 +166,9 @@ Some other core subjects in which I have sound knowledge include:-
 
 ## 📊 GitHub Stats — Ritesh Sontakke (Ritesh1126)
 
-## 📊 GitHub Stats — Ritesh Sontakke (Ritesh1126)
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ritesh1126&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=38BDF8&icon_color=6366F1&text_color=ffffff&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ritesh1126&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=38BDF8&icon_color=6366F1&text_color=ffffff&bg_color=0d1117"/>
 
 &nbsp;
 
