@@ -32,7 +32,7 @@
 
 ## 👨‍💻 About Me — Ritesh Sontakke
 
-> 🌍 **Pune, Maharashtra, India** | 🎓 B.Tech CS (AI & Data Science) | 💼 Seeking Internships & Collaborations
+> 🌍 **Nagpur, Maharashtra, India** | 🎓 B.Tech CS (AI & Data Science) 
 
 <div align="center">
   <table>
